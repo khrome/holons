@@ -1,0 +1,32 @@
+{
+    "name": "holons",
+    "homepage": "https://github.com/khrome/holons",
+    "version": "0.0.1",
+    "main": "index.js",
+    "description": "Unbounded containment abstraction for manipulating holons & artifacts",
+    "keywords": [
+        "holon",
+        "holons"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/holons/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:khrome/holons.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {
+    },
+    "engines": {
+        "node": "*"
+    }
+}
